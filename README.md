@@ -50,7 +50,7 @@ sns.catplot(data=df_melted, x='variable', hue='value', col='cardio', kind='count
 
 This clearly illustrates how unhealthy factors (like high cholesterol or lack of activity) are more common in patients with heart disease.
 
-🔍 Key Insights
+## 🔍 Key Insights
 
 High cholesterol and glucose levels are more prevalent in individuals with cardiovascular disease.
 
@@ -59,7 +59,7 @@ Lifestyle habits such as smoking, alcohol consumption, and lack of physical acti
 Being overweight is common in both groups but more concentrated among those with heart disease.
 
 
-🧾 Conclusion
+## 🧾 Conclusion
 
 This project demonstrates how medical data can be explored and visualized to uncover meaningful health patterns. By transforming and analyzing the data effectively, we can better understand how certain lifestyle and biological risk factors relate to cardiovascular disease. Visual analytics not only highlight these relationships but also support more informed health decisions and deeper insights for future research.
 
